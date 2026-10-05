@@ -24,8 +24,9 @@ GD-V2ray-ansible-Apt 是一个基于 Ansible 自动化运维剧本（Roles）的
 
 ---
 
-🚀 项目概述：GD-V2ray-ansible
-GD-V2ray-ansible 是专为 Linux 管理员和高阶用户设计的 Ansible 自动化运维项目。它能够极大地降低代理节点的部署门槛，实现“代码即基础设施”的现代化运维体验。
+🚀 项目概述：GD-V2ray-ansible-Apt
+
+GD-V2ray-ansible-Apt 是专为 Linux 管理员和高阶用户设计的 Ansible 自动化运维项目。它能够极大地降低代理节点的部署门槛，实现“代码即基础设施”的现代化运维体验。
 
 🛠️ 它能帮你做什么？
 
