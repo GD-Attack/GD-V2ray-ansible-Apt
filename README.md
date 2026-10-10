@@ -19,6 +19,8 @@ v2ray.tar.gz这个压缩文件中包含roles角色和执行角色的playbook剧�
 
 
 # GD-V2ray-ansible-Apt
+## 开发者：xian xichun
+
 
 GD-V2ray-ansible-Apt 是一个基于 Ansible 自动化运维剧本（Roles）的项目，旨在帮助管理员在 Linux 服务器上一键、批量部署高性能的 Xray 代理节点（支持 VLESS-REALITY、VMess 等主流安全协议），并能自动生成对应的 Clash / Mihomo 订阅配置文件。
 
