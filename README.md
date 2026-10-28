@@ -44,6 +44,10 @@ GD-V2ray-ansible-Apt 是专为 Linux 管理员和高阶用户设计的 Ansible �
 
 可完美运行在 Debian / Ubuntu 系列上。
 
+可扩展支持：需要修改RHEL系列的ansible特定的模块为Debian系列所支持的模块，即可完美运行在 Debian / Ubuntu 系列上。您可以手动修改，也可以选择信任我们，我们已经将适配于RHEL系列的操作系统所需要的功能发布到了GitHub仓库中。已经开源，目前已经更新到v1.0版本，在release中下载最新版本
+
+仓库地址：https://github.com/GD-Attack/GD-V2ray-ansible-Yum.git
+
 ## 🌟 项目特点
 
 * **自动化批量部署**：利用 Ansible Role 机制，支持对单台或多台目标服务器同时进行服务部署与初始化。
