@@ -40,9 +40,9 @@ GD-V2ray-ansible-Apt 是专为 Linux 管理员和高阶用户设计的 Ansible �
 
 🐧 适用环境
 
-默认支持：kali / Ubuntu Linux / Debian 系列
+* **默认支持：**  kali / Ubuntu Linux / Debian 系列
 
-可完美运行在 Debian / Ubuntu 系列上。
+  **可完美运行在 Debian / Ubuntu 系列上。**
 
 * **可扩展支持：**
 
